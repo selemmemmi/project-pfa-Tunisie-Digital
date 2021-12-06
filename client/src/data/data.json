@@ -1,0 +1,186 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Graphique 1",
+      "largeImage": "img/portfolio/image19.png",
+      "smallImage": "img/portfolio/image19.png"
+    },
+    {
+      "title": "Graphique 2",
+      "largeImage": "img/portfolio/image24.jpg",
+      "smallImage": "img/portfolio/image24.jpg"
+    },
+    {
+      "title": "Graphique 3",
+      "largeImage": "img/portfolio/IMAGE20.png",
+      "smallImage": "img/portfolio/IMAGE20.png"
+    },
+    {
+      "title": "Graphique 4",
+      "largeImage": "img/portfolio/image21.png",
+      "smallImage": "img/portfolio/image21.png"
+    },
+    {
+      "title": "Graphique 5",
+      "largeImage": "img/portfolio/image22.png",
+      "smallImage": "img/portfolio/image22.png"
+    },
+    {
+      "title": "Graphique 6",
+      "largeImage": "img/portfolio/image23.jpg",
+      "smallImage": "img/portfolio/image23.jpg"
+    },
+    {
+      "title": "Graphique 7",
+      "largeImage": "img/portfolio/image24.jpg",
+      "smallImage": "img/portfolio/image24.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "img": "img/clients/image1.jpg",
+      "name": "BIAT",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "img": "img/clients/image4.png",
+      "name": "TLF",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "img": "img/clients/image5.png",
+      "name": "ORANGE",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "img": "img/clients/image3.svg",
+      "name": "TOTAL",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "img": "img/clients/image8.png",
+      "name": "UIB",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "img": "img/clients/image6.png",
+      "name": "TENISIE TELECOM",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+    ,
+    {
+      "img": "img/clients/image7.png",
+      "name": "AMEN BANK",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+    ,
+    {
+      "img": "img/clients/image2.png",
+      "name": "SOCIETE TUNISIENNE DE L'ELECTRICITE DU GAZ",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "ingénieur 1"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "ingénieur 2"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "ingénieur 3"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "ingénieur 4"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "ingénieur 5"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "ingénieur 6"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/1.png",
+      "name": "APPLICATION DIGIPROD",
+      "job": "Application outils pour le tracking de production"
+    },
+    {
+      "img": "img/team/2.svg",
+      "name": "DIGITRACK : PHILOSOPHIE",
+      "job": "Une solution mise à la disposition des clients"
+    },
+    {
+      "img": "img/team/3.png",
+      "name": "DIGI PND",
+      "job": "IHM en webservice (outils) de tracking de courrier entrant NPAI / PND"
+    }
+  ],
+  "Contact": {
+    "address": "Z.I Saint Gobain - 280 rue Ibn el Haythem - 2014 Mégrine Riadh - TUNISIE ",
+    "phone": "(+216) 71 297 211 ",
+    "email": "g.guego@tunisie-digital.com    ",
+    "fix": "(+216) 71 295 001 ",
+    "twitter": "06 27 88 01 38",
+    "contact": "Geoffrey Guégo "
+  },
+  "Features": [
+    {
+      "img": "img/Features/image1.png",
+      "title": "Conception  Enrichissement",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "img": "img/Features/image2.png",
+      "title": "Personnalisation  en ligne",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "img": "img/Features/image3.png",
+      "title": "XML HTML5",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "img": "img/Features/image5.png",
+      "title": "App-  Mobile  SMS",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "img": "img/Features/image4.png",
+      "title": "App-  Mobile  SMS",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
